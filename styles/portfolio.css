@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.font-open-sans {
+    font-family: "open sans", sans-serif;
+    font-optical-sizing: auto;
+}
+
+btn{
+    background-color: #30b868;
+}
+
+header {
+    padding-top: 50px;
+}
+
+nav{
+    width: 90%;
+    max-width: 1600px;
+    border: 1px solid red;
+    margin: 0px auto ;
+    justify-content: space-between;
+}
+nav .menu{
+    display: flex;
+    list-style-type: none;
+}
