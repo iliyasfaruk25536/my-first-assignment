@@ -28,3 +28,15 @@ nav .menu{
     display: flex;
     list-style-type: none;
 }
+#skills{
+    padding-top: 120px;
+}
+#skills .skills-container{
+    width: 71%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+#skills.skills-container .skill-box{
+    display: flex;
+}
